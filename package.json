@@ -30,7 +30,7 @@
     "tape": "^4.6.3"
   },
   "dependencies": {
-    "cipher-base": "^1.0.1",
+    "cipher-base": "git+https://github.com/kamalhunzai-dexive/cipher-base.git",
     "inherits": "^2.0.1",
     "md5.js": "git+https://github.com/cmh114933/md5.js.git",
     "ripemd160": "^2.0.1",
